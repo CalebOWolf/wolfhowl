@@ -15,8 +15,7 @@ color: #00FF7F;
 font-size: 18px; 
 text-decoration: none; 
 display: inline;
-margin-top: 12px;
-margin-bottom: 12px;
+margin: 12px;
 }
 
 a:hover, a:active {
@@ -24,8 +23,7 @@ color: #000000;
 font-size: 18px; 
 text-decoration: none; 
 display: inline;
-margin-top: 12px;
-margin-bottom: 12px;
+margin: 12px;
 }
 
 /* Nav */
