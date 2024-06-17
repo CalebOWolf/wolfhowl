@@ -6,7 +6,7 @@ background-color: #000000;
 color: #00FF7F; 
 cursor: url("/img/cursor.png"), default;
 /*display: ; */
-margin: px;
+margin: 2px;
 }
 
 /* Links */
@@ -15,7 +15,7 @@ color: #00FF7F;
 font-size: 18px; 
 text-decoration: none; 
 display: inline;
-margin: 17px;
+margin: 7px;
 }
 
 a:hover, a:active {
@@ -23,7 +23,7 @@ color: #000000;
 font-size: 18px; 
 text-decoration: none; 
 display: inline;
-margin: 17px;
+margin: 7px;
 }
 
 /* Nav */
